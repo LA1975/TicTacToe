@@ -1,18 +1,13 @@
-## Getting Started
+## Simple TicTacToe in JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercise to practice Java.  I used IntelliJ tutorials via hyperlink to develop
 
-## Folder Structure
+## Reflection
 
-The workspace contains two folders by default, where:
+This was good revision.  The only issue I had with the tutorials it initially walked you in to the string provessing direction and halfway though it became clear that a 2D array would be more efficient. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Even though the integrated theory as you go through each step is great there was none on methods.  A learner with no prior experience would have produce code with alot unecessary of repetition.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+So at step 4 of the process I basically started from scrach to incorporate methods and 2D arrays.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+It passed all the tests. 
